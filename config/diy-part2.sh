@@ -25,7 +25,7 @@ git clone https://github.com/chenhw2/luci-app-aliddns.git package/luci-app-alidd
 # => 阿里云web dav
 git clone https://github.com/messense/aliyundrive-webdav.git package/luci-app-aliyundrive-webdav
 # => dockerman
-git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+#git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 # => openclash
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 
